@@ -1,0 +1,17 @@
+name: ot_env
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.12
+- ipykernel
+- requests
+- ipyleaflet
+- rasterio
+- matplotlib
+- rioxarray
+- numpy
+- gdal
+- pyproj
+- shapely
+- geopandas
