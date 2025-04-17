@@ -1,0 +1,9 @@
+requests
+ipyleaflet
+rasterio
+matplotlib
+rioxarray
+numpy
+pyproj
+shapely
+geopandas
